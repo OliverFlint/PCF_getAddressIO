@@ -1,7 +1,7 @@
 # PCF_getAddressIO
 A PowerApps Component Framework solution for Address (UK) lookups via post code
 
-## Usage
+## Get Started
 1. First ensure you have installed the [PowerApps CLI](https://aka.ms/PowerAppsCLI)
 2. run `npm install` to download the required npm packages
 3. Use `npm run build` to build/compile the source code
