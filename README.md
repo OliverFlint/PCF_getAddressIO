@@ -15,7 +15,7 @@ NB. More detailed usage instructions are coming soon.
 1. Get an API Key from https://getaddress.io/
 2. Install the solution
     - either using the solution package generated in the [Get Started](#Get-Started) section
-    - or via the latest [release](releases)
+    - or via the latest [release](../../releases)
 3. On a form with address controls change the post code fields control to use this getAddressIO control
 4. Bind the control properties to your address fields *
 
