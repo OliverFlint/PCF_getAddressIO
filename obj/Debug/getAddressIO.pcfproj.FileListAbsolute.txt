@@ -1,0 +1,4 @@
+c:\source\repos\PCF_PlayGround\getAddressIO\obj\Debug\getAddressIO.pcfprojAssemblyReference.cache
+c:\source\repos\PCF_PlayGround\getAddressIO\obj\Debug\getAddressIO.pcfproj.CoreCompileInputs.cache
+C:\source\repos\PCF_getAddressIO\obj\Debug\getAddressIO.pcfprojAssemblyReference.cache
+C:\source\repos\PCF_getAddressIO\obj\Debug\getAddressIO.pcfproj.CoreCompileInputs.cache
